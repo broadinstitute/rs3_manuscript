@@ -1,2 +1,6 @@
-# rs3_manuscript
-Relevant code for Rule Set 3 manuscript
+# Small variations in tracrRNA sequence have a large effect on sgRNA activity
+
+CRISPR technology is a powerful tool for studying genome function. To aid in picking sgRNAs that have maximal cutting efficacy, several groups have developed models that predict sgRNA on-target activity. While multiple tracrRNA variants are commonly used for screening, almost all existing models were trained to predict activity for one tracrRNA. Here we develop an on-target model that makes optimal predictions for multiple tracrRNA variants. We validate this model on a new dataset of sgRNAs tiling essential and non-essential genes. By analyzing the differences in sgRNA activity between tracrRNA variants, we show that Pol III transcription termination is a strong determinant of sgRNA activity. We expect these results to improve the performance of CRISPR screening and inform future research on tracrRNA engineering and sgRNA modeling.  
+
+
+### All custom code used for analysis and example notebooks are available here.
